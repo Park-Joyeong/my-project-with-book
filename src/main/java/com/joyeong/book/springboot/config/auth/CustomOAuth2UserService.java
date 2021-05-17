@@ -1,6 +1,7 @@
 package com.joyeong.book.springboot.config.auth;
 
 import com.joyeong.book.springboot.config.auth.dto.OAuthAttributes;
+import com.joyeong.book.springboot.config.auth.dto.SessionUser;
 import com.joyeong.book.springboot.domain.user.User;
 import com.joyeong.book.springboot.domain.user.UserRepository;
 import lombok.RequiredArgsConstructor;
